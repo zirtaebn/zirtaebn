@@ -1,7 +1,7 @@
 ### Olá, mundo!
 
 Estou no caminho para ser uma desenvolvedora full stack.<br>
-Atualmente focada em tecnologias de Front-end 💻
+Atualmente focada em Front-end 💻
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zirtaebn&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
